@@ -1,7 +1,7 @@
 The Central City Citizen
 
 
-NEWSFEED
+NEWS FEED
 
 NATIONAL
 
@@ -49,7 +49,6 @@ After 20 rounds of this, they wound up with a group of E. coli that could repair
 Analized the 69 known mutations that allowed these E. coli to be so good at repairing themselves.
 
 Our bodies repair DNA in many of the same ways that bacteria does. So this study sheds light on ways that human cells could one day repair their DNA in the wake of radiation damage. But of course, there are a lot unknowns here. "This extreme resistance we're looking at is a complicated phenotype repair systems can adapt and those adaptations contribuite a lot to radiation resistance." the DNA repair systems can adapt and those adaptations contribuite a lot to radiation resistance. It's also possible that this research could help future astronauts and colonists on other worlds where there is more radiation bombardment from space.
-
 
 TECH >
 
